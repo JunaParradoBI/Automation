@@ -1,0 +1,2 @@
+@echo off
+"C:\Users\Juan Esteban\AppData\Local\Programs\Python\Python312\python.exe" -m nbconvert --to notebook --execute "C:\Users\Juan Esteban\Desktop\Proyectos Python\02. Automatizaciones\Nota economica dolar.ipynb"
